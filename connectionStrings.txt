@@ -1,0 +1,1 @@
+<add name="MyDbContext" connectionString="data source=server;initial catalog=db;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
